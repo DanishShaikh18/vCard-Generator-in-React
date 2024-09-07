@@ -82,7 +82,7 @@ END:VCARD`;
                     />
                 ) : (
                     <img
-                        src="src/Images/def_QR.jpg"
+                        src="src/assets/def_QR.jpg"
                         alt="QR Code"
                         className="object-fill w-full h-full"
                     />
