@@ -12,7 +12,7 @@ function App() {
       <div className="relative">
         {/* Desktop-only Styling Image */}
         <img
-          src="src/assets/style_image.png" // Ensure this path is relative to the public directory
+          src="public\images\style_image.png" // Ensure this path is relative to the public directory
           alt="Styling Decoration"
           className="hidden lg:block absolute w-[100px] h-[540px] top-[190px] left-0 rotate-0 z-[-1]"
         />
