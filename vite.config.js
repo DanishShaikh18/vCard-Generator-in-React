@@ -8,5 +8,8 @@ export default defineConfig({
   server: {
     open: true, // Automatically opens the browser on server start
   },
+  alias:{
+    '@': '/src',
+  },
   // Add any other custom configuration here
 });

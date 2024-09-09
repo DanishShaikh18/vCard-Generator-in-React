@@ -3,7 +3,7 @@ import React from 'react';
 
 function Footer() {
     return (
-        <footer className="w-full text-center pt-0.5 pb-0.5 bottom-0 left-0">
+        <footer className=" w-full text-center pt-0.5 pb-0.5 bottom-0 left-0">
             {/* Horizontal Line */}
             <hr className="border-t-2 border-gray w-full mb-2" />
             

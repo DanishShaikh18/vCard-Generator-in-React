@@ -7,12 +7,12 @@ import Footer from './Components/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       {/* Container for positioning the styling image */}
-      <div className="relative">
+      <div className="lg:-mb-[4%]">
         {/* Desktop-only Styling Image */}
         <img
-          src="public\images\style_image.png" // Ensure this path is relative to the public directory
+          src="src\assets\images\style_image.png" // Ensure this path is relative to the public directory
           alt="Styling Decoration"
           className="hidden lg:block absolute w-[100px] h-[540px] top-[190px] left-0 rotate-0 z-[-1]"
         />
