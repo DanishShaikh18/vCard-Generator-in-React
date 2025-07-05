@@ -27,8 +27,6 @@ A simple and efficient web application built using React, HTML, and CSS that all
 
 <img src="./preview.png" alt="vCard QR Generator Screenshot" width="80%">
 
-*(Replace with actual screenshot if available)*
-
 ---
 
 ## 🔧 How to Run Locally
