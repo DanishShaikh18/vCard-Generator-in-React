@@ -25,7 +25,7 @@ A simple and efficient web application built using React, HTML, and CSS that all
 
 ## 📷 Preview
 
-<img src="https://user-images.githubusercontent.com/your-github-id/preview.png" alt="vCard QR Generator Screenshot" width="80%">
+<img src="C:\Users\danis\Pictures\Screenshots" alt="vCard QR Generator Screenshot" width="80%">
 
 *(Replace with actual screenshot if available)*
 
